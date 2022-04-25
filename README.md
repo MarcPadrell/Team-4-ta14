@@ -58,7 +58,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/79224406/165081934-32e704af-afec-4951-8964-0d191b10f336.png)
 
 **Ejercicio 10: Model Relacional**
 
