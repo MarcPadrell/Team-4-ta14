@@ -52,7 +52,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/79224406/165080062-00269fef-68e1-421b-93ab-57b1c1daeedb.png)
 
 **Ejercicio 7**
 
