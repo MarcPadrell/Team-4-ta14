@@ -14,7 +14,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 <br>
-link imagen
+![image](https://user-images.githubusercontent.com/68342939/165257138-254a2b56-ec54-4fcd-b495-f9e7b8f3cc37.png)
 <hr>
 
 **Ejercicio 12: Diagrama Entitat-Relació**
