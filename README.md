@@ -1,7 +1,7 @@
 # TA14 - DDL
 Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 
-## Ejercicios realizados por Borja: 8, 9 i 12: Diagrama Entitat-Relació
+## Ejercicios realizados por Borja: 8, 9 i (12: Diagrama Entitat-Relació)
 
 **Ejercicio 8**
 
