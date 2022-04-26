@@ -15,7 +15,7 @@ Diagrama Entidad - Relación:
 
 
 
-**Ejercicio 10: Diagrama Entitat-Relació**
+**Ejercicio 12: Diagrama Entitat-Relació**
 
 Diagrama Entidad - Relación:
 
@@ -35,9 +35,9 @@ Diagrama Entidad - Relación:
 
 
 
-**Ejercicio 10: SQL**
+**Ejercicio 12: SQL**
 
-Diagrama Entidad - Relación:
+SQL:
 
 
 ## Ejercicios realizados por Marc Padrell: 4, 5, 7, 10 i 12: Model Relacional
@@ -60,9 +60,15 @@ Diagrama Entidad - Relación:
 
 ![image](https://user-images.githubusercontent.com/79224406/165081934-32e704af-afec-4951-8964-0d191b10f336.png)
 
-**Ejercicio 10: Model Relacional**
+**Ejercicio 10**
 
 Diagrama Entidad - Relación:
+
+![image](https://user-images.githubusercontent.com/79224406/165238773-9ca093a7-1f62-4bd9-84af-850516a6f0ef.png)
+
+**Ejercicio 12: Model Relacional**
+
+Model Relacional:
 
 
 
