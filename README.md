@@ -6,20 +6,24 @@ Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 **Ejercicio 8**
 
 Diagrama Entidad - Relación:
-
-
+<br>
+![image](https://user-images.githubusercontent.com/68342939/165250030-5351e206-ad59-4a98-9d2d-1a1a77c1658a.png)
+<hr>
 
 **Ejercicio 9**
 
 Diagrama Entidad - Relación:
-
-
+<br>
+link imagen
+<hr>
 
 **Ejercicio 12: Diagrama Entitat-Relació**
 
 Diagrama Entidad - Relación:
 
-
+<br>
+link imagen
+<hr>
 
 ## Ejercicios realizados por Marc Nebot: 3, 6, 11 i 12: SQL
 
