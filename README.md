@@ -21,7 +21,7 @@ Diagrama Entidad - Relación:
 
 
 
-## Ejercicios realizados por Marc Nebot: 3, 6 i 12: SQL
+## Ejercicios realizados por Marc Nebot: 3, 6, 11 i 12: SQL
 
 **Ejercicio 3**
 
@@ -30,6 +30,11 @@ Diagrama Entidad - Relación:
 
 
 **Ejercicio 6**
+
+Diagrama Entidad - Relación:
+
+
+**Ejercicio 11**
 
 Diagrama Entidad - Relación:
 
