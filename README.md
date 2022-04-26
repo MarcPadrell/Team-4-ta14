@@ -21,8 +21,6 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-<br>
-
 ![ejercicio12TA14 drawio (1)](https://user-images.githubusercontent.com/68342939/165359058-9beb63bb-e31a-4b59-96f4-baac7ee028f4.png)
 
 
