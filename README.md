@@ -32,23 +32,32 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/103039613/166333101-9f66f2c0-5b97-4049-91bf-0b3114fbaf5d.png)
 
 **Ejercicio 6**
 
 Diagrama Entidad - Relación:
 
+![image](https://user-images.githubusercontent.com/103039613/166333163-ab312b0c-80f5-4481-9cf5-1417bb95ac3d.png)
 
 **Ejercicio 11**
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/103039613/166333185-8d029760-cbea-4335-b45c-29a640554a64.png)
 
 **Ejercicio 12: SQL**
 
+![image](https://user-images.githubusercontent.com/103039613/166333226-fb3403ea-658e-4126-803e-5a45cedffe31.png)
+
+
 SQL:
 
+![image](https://user-images.githubusercontent.com/103039613/166333285-cc8fcc5f-872b-40f2-ba3b-f925e27cb5ba.png)
+
+![image](https://user-images.githubusercontent.com/103039613/166333328-2ee623c8-890b-4daf-b437-dab2f12c3dd7.png)
+
+![image](https://user-images.githubusercontent.com/103039613/166333359-5b629004-cc98-43f0-8d1d-ec3ed3235158.png)
 
 ## Ejercicios realizados por Marc Padrell: 4, 5, 7, 10 i 12: Model Relacional
 
